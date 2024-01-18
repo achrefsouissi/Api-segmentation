@@ -13,6 +13,7 @@ This project provides a FastAPI service to deploy the MobileSam segmentation mod
 1. Clone the repository:
    git https://github.com/achrefsouissi/Api-segmentation
    cd Api-Mobilesam-Task-Stage
+### Note: The API is located in the 'Api-Mobilesam-task-stage' folder.
    
 # Running the Service - Without Docker - Run the FastAPI service:
 
